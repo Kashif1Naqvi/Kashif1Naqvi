@@ -63,7 +63,7 @@ I have plans to learn Artificial Intelligence,Machine Learning an Quantum Comput
 
 [Portfolio](http://kashif-naqvi.surge.sh/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kashif1Naqvi&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kashif1Naqvi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
