@@ -17,6 +17,8 @@ PROGRAMMING LANGUAGES
 * CSS3
 
 * JavaScript
+ 
+* Ruby
 
 
 
