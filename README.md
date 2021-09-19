@@ -39,6 +39,7 @@ I have production experience with following frameworks
 
 * CodeIgniter
 
+* Flask
 
 
 DATABASES
@@ -59,7 +60,7 @@ Tools
 
 Education
 
-Master in Computer Science 2019
+BS Computer Science (Hons) completed in 2019
 
 I have plans to learn Artificial Intelligence,Machine Learning an Quantum Computing.I learn everything with so much patience & hard work.I learn more in Computer Science field in future.
 # Check my portfolio
