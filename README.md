@@ -1,5 +1,10 @@
 ![alt text](https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kashif1Naqvi&label=Profile%20views&color=0e75b6&style=flat" alt="Kashif1Naqvi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kashif1Naqvi" alt="Kashif1Naqvi" /></a> </p>
+
+
 Hi,i'm Kashif.
 
 I’m passionate motivated ,professional,highly organized,self driven,reliable computer
