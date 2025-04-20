@@ -3,12 +3,48 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kashif1Naqvi&label=Profile%20views&color=0e75b6&style=flat" alt="Kashif1Naqvi" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kashif1Naqvi" alt="Kashif1Naqvi" /></a> </p>
 
-Hi,i'm Kashif.
+# 👋 Hi, I'm Syed Kashif Shah
 
-I’m passionate motivated ,professional,highly organized,self driven,reliable computer
-programmer. I am very flexible,down to earth,fun,humble,loyal & polite person.I build scalable,
-maintainable, cutting edge , cost effective, result oriented, profitable, ambitious web APPs/APIs. I
-strive to write clean, modular, fast, bug free, & semantic code.
+### 🚀 Full Stack Developer | Python 🐍 | Django ⚙️ | React ⚛️ | FastAPI 🚦 | Remote Engineer
+
+I’m a passionate Full Stack Developer based in Lahore, Pakistan 🇵🇰 with 5+ years of experience in building scalable, performant web applications. I specialize in Python, Django, React.js, and FastAPI, and have hands-on experience with RESTful APIs, GraphQL, AWS, Docker, Celery, PostgreSQL, and more.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, Rust, PHP, Ruby
+**Frontend:** React.js, Redux, HTML5, CSS3, Bootstrap, D3.js  
+**Backend:** Django, FastAPI, Flask, Django REST Framework, Celery, GraphQL, Flask, CodeIgniter
+**Databases:** PostgreSQL, MySQL, MongoDB, Apache Cassandra
+**DevOps & Tools:** AWS, Docker, Git, GitHub Actions, CI/CD, VS Code  
+
+---
+
+### 📌 Top Projects
+
+🔹 [Accounts Management System](https://accounts.usa.edu.pk/)  
+🔹 [CRM System](https://crm.usa.edu.pk/)  
+🔹 [Portfolio Website](https://kashif-syed.surge.sh/)  
+🔹 [Blog Django](https://github.com/Kashif1Naqvi/Blog-Django)  
+🔹 [Profile REST API](https://github.com/Kashif1Naqvi/profile-rest-api)
+
+> More projects on my [GitHub Repositories](https://github.com/Kashif1Naqvi?tab=repositories)
+
+---
+
+### 📫 Let's Connect
+
+- ✉️ Email: [syedkashifnaqvi14@gmail.com](mailto:syedkashifnaqvi14@gmail.com)  
+- 🌐 Portfolio: [kashif-syed.surge.sh](https://kashif-syed.surge.sh)  
+- 💼 LinkedIn: [linkedin.com/in/syed-kashif512](https://linkedin.com/in/syed-kashif512)
+
+---
+
+### 🎯 Looking For
+
+A **remote full stack role** where I can build and scale real-world products, contribute to clean codebases, and work in a collaborative environment. Open to freelance, contract, or full-time opportunities globally 🌍.
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashif1Naqvi&show_icons=true&locale=en&layout=compact" alt="Kashif1Naqvi" /></p>
@@ -17,52 +53,10 @@ strive to write clean, modular, fast, bug free, & semantic code.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kashif1Naqvi&" alt="Kashif1Naqvi" /></p>
 
-
-PROGRAMMING LANGUAGES
-
-* Python
-
-* PHP
-
-* HTML5
-
-* CSS3
-
-* JavaScript
- 
-* Ruby
-
-
-
-FRAMEWORKS
-
-I have production experience with following frameworks
-
-* Django
-
-* D3.js
-
-* React JS
-
-* Bootstrap 4
-
-* Redux
-
-* CodeIgniter
-
-* Flask
-
-
-DATABASES
-
-  * MySQL
-  * PostgreSQL
-  * MongoDB
-
 Tools
 
   * SASS 
-  * Ubuntu
+  * Ubuntu 
   * Bootstrap
   * Git/GitHub
   * Apache Server
